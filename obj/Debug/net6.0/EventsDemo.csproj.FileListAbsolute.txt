@@ -1,0 +1,15 @@
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/bin/Debug/net6.0/EventsDemo
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/bin/Debug/net6.0/EventsDemo.deps.json
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/bin/Debug/net6.0/EventsDemo.runtimeconfig.json
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/bin/Debug/net6.0/EventsDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/bin/Debug/net6.0/EventsDemo.pdb
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.csproj.AssemblyReference.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.AssemblyInfoInputs.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.AssemblyInfo.cs
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.csproj.CoreCompileInputs.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/refint/EventsDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.pdb
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/EventsDemo.genruntimeconfig.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/EventsDemo/obj/Debug/net6.0/ref/EventsDemo.dll
